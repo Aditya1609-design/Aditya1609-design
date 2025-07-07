@@ -1,39 +1,44 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<p align="left">
+  I'm <strong>Aditya</strong> — a 3rd year undergraduate student at <strong>Delhi Technological University (DTU)</strong>. <br>
+  Passionate about building cool things and solving real-world problems through code.
+</p>
 
-<p align="left">My name is Aditya and I'm a 3rd year undergrad, from DTU</p>
+---
 
-###
+<h2 align="left">🚀 About Me</h2>
 
-<h2 align="left">About me</h2>
+<ul align="left">
+  <li>✨ Exploring the world of <strong>Machine Learning</strong> and its applications</li>
+  <li>🧠 Currently learning <strong>ML</strong> and the <strong>MERN stack</strong></li>
+  <li>🎯 Actively looking for <strong>internships</strong> and <strong>collaborative opportunities</strong></li>
+</ul>
 
-###
+---
 
-<p align="left">✨ Exploring ML ...<br>📚 currently learning ML, Mern stack <br>🎯 Looking for opportunities<br>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="12" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="12" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="12" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="12" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="12" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="12" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="12" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="Storybook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest" />
 </div>
 
-###
+---
+
+<h2 align="left">📫 Let's Connect</h2>
+
+<p align="left">
+  Feel free to reach out if you want to collaborate, have a chat, or just say hi! 😊<br>
+  You can find me on: <br>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/your-username" target="_blank">GitHub</a> • 
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
+

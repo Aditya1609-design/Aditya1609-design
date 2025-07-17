@@ -39,24 +39,22 @@
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya1609-design
-&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya1609-design&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" />
+
+
   
   <!-- Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Aditya1609-design
-&theme=radical&hide_border=true" height="170" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Aditya1609-design&theme=radical&hide_border=true" height="170" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya1609-design
-&layout=compact&langs_count=8&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya1609-design&layout=compact&langs_count=8&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1609-design
-&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1609-design&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -64,18 +62,17 @@
 ## 🌟 Featured Projects  
 
 - 🎨 [**Portfolio Website**](https://github.com/Aditya1609-design/portfolio) – React + Tailwind + Vite  
-- 🤖 [**Emotion Recognition AI**](https://github.com/Aditya1609-design/emotion-recognition) – Facial emotion detection with live graphs  
-- 🏆 [**DSA Problem Solutions**](https://github.com/Aditya1609-design/DSA-practice) – My LeetCode & GFG practice  
+- 🤖 [**Emotion Recognition AI**](https://github.com/Aditya1609-design/emotion-recognition) – Facial emotion detection with live graphs
 
 ---
 
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:your.yadav16092004@gmail.com">
+  <a href="mailto:yadav16092004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](http://www.linkedin.com/in/aditya-yadav-a30683290)">
+  <a href="https://www.linkedin.com/in/aditya-yadav-a30683290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>

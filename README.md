@@ -61,8 +61,8 @@
 
 ## 🌟 Featured Projects  
 
-- 🎨 [**Portfolio Website**](https://github.com/Aditya1609-design/portfolio) – React + Tailwind + Vite  
-- 🤖 [**Emotion Recognition AI**](https://github.com/Aditya1609-design/emotion-recognition) – Facial emotion detection with live graphs
+- 🎨 [**Portfolio Website**] – React + Tailwind + Vite  
+- 🤖 [**Emotion Recognition AI**] – Facial emotion detection with live graphs
 
 ---
 

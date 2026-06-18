@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
-<h3 align="center">Final-year B.Tech IT @ DTU · MERN Stack · Machine Learning · SDE Placement 2026</h3>
+<h3 align="center">B.Tech IT @ DTU · MERN Stack · Machine Learning · Open to SDE Roles</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%2B+AI+products;Grinding+DSA+on+LeetCode+daily;Published+ML+research+%40+DTU;Open+to+SDE+roles+%E2%80%94+Placements+July+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=650&lines=Building+full-stack+%2B+AI+products;Grinding+DSA+on+LeetCode+daily;Published+ML+research+%40+DTU;Open+to+SDE+roles" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech Information Technology, DTU (Batch 2022–26)
+- 🎓 B.Tech Information Technology @ DTU (Batch 2023–27)
 - 🔬 Published ML/AI research paper under a DTU faculty member
 - ⚙️ Full-stack builder — MERN stack + growing ML/AI layer
-- 🎯 Actively targeting SDE roles — campus placements starting July 2026
+- 🎯 Building toward a career in software engineering — full-time roles & internships
 - 🎨 Member of Kalakriti, DTU's arts society (design, Abhivyakti fest)
 - ☕ Best commits happen after the second cup
 

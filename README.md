@@ -68,7 +68,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:yadav16092004@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yadav16092004@gmail.com"">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aditya-yadav-a30683290/">

@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%" alt="Aditya Yadav, backend developer. Timeline: B.Tech IT at DTU 2023 to 2027 (CGPA 8.29), 851+ DSA problems, SDE intern at Profices Technologies in 2026, final-year C++ physics engine, next a backend or SDE role.">
+<img src="./header_2.svg" width="100%" alt="Aditya Yadav, backend developer. Timeline: B.Tech IT at DTU 2023 to 2027 (CGPA 8.29), 851+ DSA problems, SDE intern at Profices Technologies in 2026, final-year C++ physics engine, next a backend or SDE role.">
 
 I'm a final-year IT student at Delhi Technological University. Most of my work happens on the backend: designing REST APIs, handling auth and data, and wiring AI features like LLM scoring and speech-to-text into products people actually use.
 
@@ -10,13 +10,13 @@ Built the REST APIs for an application management module in Node.js, Express and
 
 ## Projects
 
-<a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./card-interviewprep.svg" width="100%" alt="InterviewPrep: AI-powered interview preparation platform. Opens the repository."></a>
+<a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./card-interviewprep_1.svg" width="100%" alt="InterviewPrep: AI-powered interview preparation platform. Opens the repository."></a>
 <p align="right"><sub><a href="https://github.com/Aditya1609-design/REPO-NAME">Code</a> &nbsp;|&nbsp; <a href="https://LIVE-LINK">Live site</a></sub></p>
 
-<a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./card-prime-services.svg" width="100%" alt="Prime Services: lead-generation website for a multi-service business. Opens the repository."></a>
+<a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./card-prime-services_1.svg" width="100%" alt="Prime Services: lead-generation website for a multi-service business. Opens the repository."></a>
 <p align="right"><sub><a href="https://github.com/Aditya1609-design/REPO-NAME">Code</a> &nbsp;|&nbsp; <a href="https://LIVE-LINK">Live site</a></sub></p>
 
-<a href="https://github.com/Aditya1609-design/hybrid-physics"><img src="./card-hybrid-physics.svg" width="100%" alt="Hybrid physics engine: soft-body simulation that switches between a GNN and a classical solver. Opens the repository."></a>
+<a href="https://github.com/Aditya1609-design/hybrid-physics"><img src="./card-hybrid-physics_1.svg" width="100%" alt="Hybrid physics engine: soft-body simulation that switches between a GNN and a classical solver. Opens the repository."></a>
 <p align="right"><sub><a href="https://github.com/Aditya1609-design/hybrid-physics">Code</a></sub></p>
 
 ## Problem solving

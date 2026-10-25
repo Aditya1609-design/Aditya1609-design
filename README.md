@@ -31,10 +31,8 @@ A lead-generation website for a financial services business, live in production.
 
 I'm looking for backend and SDE roles starting 2027. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/aditya-yadav-a30683290/) or [email](mailto:yadav16092004@gmail.com).
 
-<!--
-Contribution snake (your workflow still generates it). Delete these comment markers to show it again.
-<picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya1609-design/Aditya1609-design/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aditya1609-design/Aditya1609-design/output/github-snake.svg" />
 </picture>
--->
+

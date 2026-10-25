@@ -1,38 +1,43 @@
-<img src="./header.svg" alt="Aditya Yadav: I build backends, AI pipelines and a soft-body physics engine in C++." width="100%">
+<img src="./assets/header.svg" width="100%" alt="Aditya Yadav, backend developer. Timeline: B.Tech IT at DTU 2023 to 2027 (CGPA 8.29), 851+ DSA problems, SDE intern at Profices Technologies in 2026, final-year C++ physics engine, next a backend or SDE role.">
 
-I'm a final-year IT student at Delhi Technological University. I like the part of software that users never see: the APIs, the data pipelines, and the logic that has to keep working once real people start using it. This summer I interned as a software developer at Profices Technologies, building web apps on the MERN stack.
+I'm a final-year IT student at Delhi Technological University. Most of my work happens on the backend: designing REST APIs, handling auth and data, and wiring AI features like LLM scoring and speech-to-text into products people actually use.
 
-## Things I've built
+## Experience
 
-#### [InterviewPrep](https://github.com/Aditya1609-design/REPO-NAME)
-An interview practice platform with AI resume analysis, mock interviews and a leaderboard. I owned the backend. The hardest part came after launch, when real users uploaded resumes in every format imaginable, so the parsing runs through Tesseract OCR with fallback handling for the cases that kept breaking. LLM calls go through OpenRouter, spoken answers are transcribed with Whisper, and the leaderboard is a MongoDB aggregation pipeline.
+**SDE Intern, Profices Technologies** &nbsp;<sub>Chandigarh, Jun to Jul 2026</sub>
 
-<sub>Node.js, Express, MongoDB, Firebase Auth, OpenRouter, Whisper, Tesseract</sub>
+Built the REST APIs for an application management module in Node.js, Express and MongoDB, covering application submission, lookup by job or candidate, and status tracking. Secured them with JWT authentication and role-based authorization, added input validation and duplicate-application checks, and verified every endpoint with Postman test cases.
 
-#### [Hybrid physics engine](https://github.com/Aditya1609-design/hybrid-physics)
-My final-year project, built with a teammate. It's a C++17 engine for real-time soft-body simulation that switches between a Graph Neural Network and a classical solver, depending on how confident the network is. The idea is to get the network's speed where it's safe and the solver's accuracy where it isn't. The block at the top of this page is a nod to it. Still in progress.
+## Projects
 
-<sub>C++17, Python, Graph Neural Networks</sub>
+<a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./assets/card-interviewprep.svg" width="100%" alt="InterviewPrep: AI-powered interview preparation platform. Opens the repository."></a>
+<p align="right"><sub><a href="https://github.com/Aditya1609-design/REPO-NAME">Code</a> &nbsp;|&nbsp; <a href="https://LIVE-LINK">Live site</a></sub></p>
 
-#### [Prime Services](https://github.com/Aditya1609-design/REPO-NAME)
-A lead-generation website for a financial services business, live in production. The React frontend is hosted on Vercel, and an Express API on Render captures leads and delivers them by email through Resend.
+<a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./assets/card-prime-services.svg" width="100%" alt="Prime Services: lead-generation website for a multi-service business. Opens the repository."></a>
+<p align="right"><sub><a href="https://github.com/Aditya1609-design/REPO-NAME">Code</a> &nbsp;|&nbsp; <a href="https://LIVE-LINK">Live site</a></sub></p>
 
-<sub>React 19, Vite, Tailwind, Framer Motion, Express, Resend</sub>
+<a href="https://github.com/Aditya1609-design/hybrid-physics"><img src="./assets/card-hybrid-physics.svg" width="100%" alt="Hybrid physics engine: soft-body simulation that switches between a GNN and a classical solver. Opens the repository."></a>
+<p align="right"><sub><a href="https://github.com/Aditya1609-design/hybrid-physics">Code</a></sub></p>
 
-## Tools I reach for
+## Problem solving
 
-**Backend:** Node.js, Express, MongoDB, Firebase, SQL<br>
-**Languages:** C++ (my go-to for DSA), JavaScript, Python<br>
-**Frontend:** React, Next.js, Tailwind, Vite<br>
-**AI:** OpenRouter, Hugging Face, Tesseract, scikit-learn<br>
-**Shipping:** Vercel, Render, Git
+851+ problems solved across LeetCode, CodeChef, GeeksforGeeks and CodeStudio. On CodeChef I compete regularly, with a peak rating of 1574 (2★) and a global rank of 341 in Starters 250 out of more than 20,000 participants.
 
-## Say hello
+## Skills
 
-I'm looking for backend and SDE roles starting 2027. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/aditya-yadav-a30683290/) or [email](mailto:yadav16092004@gmail.com).
+**Languages:** C, C++, JavaScript, SQL<br>
+**Backend:** Node.js, Express, MongoDB, REST APIs, JWT authentication<br>
+**Frontend:** React, Vite, Tailwind CSS<br>
+**AI:** LLM integration, prompt engineering, embeddings, RAG basics<br>
+**System design:** HLD, LLD, SOLID principles, design patterns<br>
+**Fundamentals:** Operating systems, DBMS, computer networks, OOP<br>
+**Tools:** Git, GitHub, Postman, Vercel
+
+## Get in touch
+
+I'm looking for backend and SDE roles starting 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/aditya-yadav-a30683290/), by [email](mailto:yadav16092004@gmail.com), or through my [portfolio](https://YOUR-PORTFOLIO-LINK).
 
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya1609-design/Aditya1609-design/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aditya1609-design/Aditya1609-design/output/github-snake.svg" />
 </picture>
-

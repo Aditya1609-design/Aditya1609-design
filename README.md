@@ -11,10 +11,10 @@ Built the REST APIs for an application management module in Node.js, Express and
 ## Projects
 
 <a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./card-interviewprep_1.svg" width="100%" alt="InterviewPrep: AI-powered interview preparation platform. Opens the repository."></a>
-<p align="right"><sub><a href="https://github.com/Aditya1609-design/REPO-NAME">Code</a> &nbsp;|&nbsp; <a href="https://LIVE-LINK">Live site</a></sub></p>
+<p align="right"><sub><a href="https://github.com/Aditya1609-design/InterviewPrep-main">Code</a> &nbsp;|&nbsp; <a href="https://interview-prep-ten-jade.vercel.app/">Live site</a></sub></p>
 
 <a href="https://github.com/Aditya1609-design/REPO-NAME"><img src="./card-prime-services_1.svg" width="100%" alt="Prime Services: lead-generation website for a multi-service business. Opens the repository."></a>
-<p align="right"><sub><a href="https://github.com/Aditya1609-design/REPO-NAME">Code</a> &nbsp;|&nbsp; <a href="https://LIVE-LINK">Live site</a></sub></p>
+<p align="right"><sub><a href="https://github.com/Aditya1609-design/prime-services">Code</a> &nbsp;|&nbsp; <a href="https://prime-services-lyart.vercel.app/">Live site</a></sub></p>
 
 <a href="https://github.com/Aditya1609-design/hybrid-physics"><img src="./card-hybrid-physics_1.svg" width="100%" alt="Hybrid physics engine: soft-body simulation that switches between a GNN and a classical solver. Opens the repository."></a>
 <p align="right"><sub><a href="https://github.com/Aditya1609-design/hybrid-physics">Code</a></sub></p>

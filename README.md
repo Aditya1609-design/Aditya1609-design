@@ -35,7 +35,7 @@ Built the REST APIs for an application management module in Node.js, Express and
 
 ## Get in touch
 
-I'm looking for backend and SDE roles starting 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/aditya-yadav-a30683290/), by [email](mailto:yadav16092004@gmail.com), or through my [portfolio](https://YOUR-PORTFOLIO-LINK).
+I'm looking for backend and SDE roles starting 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/aditya-yadav-a30683290/), by [email](yadav16092004@gmail.com), or through my [portfolio](https://portfolio-liard-beta-delpmh8guz.vercel.app/).
 
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya1609-design/Aditya1609-design/output/github-snake-dark.svg" />
